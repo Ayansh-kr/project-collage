@@ -1,2 +1,2 @@
 # project-collage
-multiplatform price checker and copun base
+multiplatform price checker and coupon base analyses system 
